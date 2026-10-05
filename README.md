@@ -93,7 +93,7 @@ website/               — Next.js marketing site
 
 ## Learning
 
-Check out [learn.md](learn.md) for a plain-language walkthrough of every logic gate and what each chapter teaches you.
+Check out [learn.md](learn.md) for a plain language walkthrough of every logic gate and what each chapter teaches you.
 
 ## License
 
